@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Oussama </h1>
-<h3 align="center">Full Stack Developer</h3>
+<h2 align="center">Full Stack Developer</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oussama-sbaa&label=Profile%20views&color=0e75b6&style=flat" alt="oussama-sbaa" /> </p>
 
@@ -16,5 +16,6 @@
 <h3 align="left">Social</h3>
 <p align="left">
 <a href="https://linkedin.com/in/oussama-sbaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oussama-sbaa" height="30" width="40" /></a>
+<a href="https://twitter.com/oussama_sbaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="oussama_sbaa" height="30" width="40" /></a>  
 <a href="https://discord.gg/oussama17_s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="oussama17_s" height="30" width="40" /></a>
 </p>
