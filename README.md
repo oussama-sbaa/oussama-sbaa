@@ -5,8 +5,11 @@
 
 
 🎓 Currently in the final year of Software Engineering Master's degree
+
 🖥️ Apprentice as a Full Stack Developer at PACK Solutions  
+
 📍 Based in Avignon, France 🇫🇷
+
 📧 You can contact me at sbaa.oussama07@gmail.com
 
 
