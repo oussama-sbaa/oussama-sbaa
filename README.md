@@ -19,8 +19,8 @@
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
 <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a>
-<a href="https://codecov.io" target="_blank" rel="noreferrer"><img src="https://github.com/oussama-sbaa/JMS/blob/main/images/githubactons.png" alt="Codecov" width="40" height="40"/></a>
-<a href="https://github.com/features/actions" target="_blank" rel="noreferrer"> <img src="https://github.com/oussama-sbaa/JMS/blob/main/images/ccov.png" alt="GitHub Actions" width="40" height="40"/></a>
+<a href="https://codecov.io" target="_blank" rel="noreferrer"><img src="https://github.com/oussama-sbaa/JMS/blob/main/images/ccov.png" alt="Codecov" width="40" height="40"/></a>
+<a href="https://github.com/features/actions" target="_blank" rel="noreferrer"> <img src="https://github.com/oussama-sbaa/JMS/blob/main/images/gactions.png" alt="GitHub Actions" width="40" height="40"/></a>
 <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
 <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
 <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a>
@@ -30,6 +30,6 @@
 <h3 align="left">Social</h3>
 <p align="left">
 <a href="https://linkedin.com/in/oussama-sbaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oussama-sbaa" height="30" width="40" /></a>
-<a href="https://twitter.com/oussama_sbaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="oussama_sbaa" height="30" width="40" /></a>  
+<a href="https://twitter.com/oussama_sbaa" target="blank"><img align="center" src="https://github.com/oussama-sbaa/JMS/blob/main/images/x.png" alt="oussama_sbaa" height="30" width="40" /></a>  
 <a href="https://discord.gg/oussama17_s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="oussama17_s" height="30" width="40" /></a>
 </p>
