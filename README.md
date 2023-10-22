@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Oussama </h1>
+<h1 align="center">Hi 👋, My name is Oussama </h1>
 <h2 align="center">Full Stack Developer</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oussama-sbaa&label=Profile%20views&color=0e75b6&style=flat" alt="oussama-sbaa" /> </p>
@@ -28,7 +28,7 @@
 <a href="https://prometheus.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="Prometheus" width="40" height="40"/></a>
 
 
-<h3 align="left">Social</h3>
+<h3 align="left">Socials</h3>
 <p align="left">
 <a href="https://linkedin.com/in/oussama-sbaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oussama-sbaa" height="30" width="40" /></a>
 <a href="https://twitter.com/oussama_sbaa" target="blank"><img align="center" src="https://github.com/oussama-sbaa/JMS/blob/main/images/x.png" alt="oussama_sbaa" height="30" width="40" /></a>  
