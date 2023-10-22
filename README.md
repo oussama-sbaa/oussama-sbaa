@@ -17,24 +17,14 @@
 <h3 align="left">DevOps</h3>
 
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
-<a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+<a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a>
+<a href="https://codecov.io" target="_blank" rel="noreferrer"><img src="https://github.com/oussama-sbaa/JMS/blob/main/images/githubactons.png" alt="Codecov" width="40" height="40"/></a>
+<a href="https://github.com/features/actions" target="_blank" rel="noreferrer"> <img src="https://github.com/oussama-sbaa/JMS/blob/main/images/ccov.png" alt="GitHub Actions" width="40" height="40"/></a>
 <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
 <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
 <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a>
 <a href="https://prometheus.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="Prometheus" width="40" height="40"/></a>
-
-<!-- GitHub Actions -->
-<a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/github_actions/github_actions-icon.svg" alt="GitHub Actions" width="40" height="40"/>
-</a>
-
-<!-- Codecov -->
-<a href="https://codecov.io" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/codecov/codecov-icon.svg" alt="Codecov" width="40" height="40"/>
-</a>
-
-
 
 
 <h3 align="left">Social</h3>
