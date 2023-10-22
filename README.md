@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Oussama S. & I'm 24 years old</h1>
+<h1 align="center">Hi 👋, I'm Oussama S.</h1>
 <h3 align="center">Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oussama-sbaa&label=Profile%20views&color=0e75b6&style=flat" alt="oussama-sbaa" /> </p>
