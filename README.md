@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, My name is Oussama </h1>
+<h1 align="center">Hi 👋, I'm Oussama </h1>
 <h2 align="center">Full Stack Developer</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oussama-sbaa&label=Profile%20views&color=0e75b6&style=flat" alt="oussama-sbaa" /> </p>
