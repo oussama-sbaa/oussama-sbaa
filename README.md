@@ -4,8 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oussama-sbaa&label=Profile%20views&color=0e75b6&style=flat" alt="oussama-sbaa" /> </p>
 
 
-<p>🎓 Currently in the final year of Software Engineering Master's degree</p>
-<p>🖥️ Apprentice as a Full Stack Developer at PACK Solutions</p>
+<p>🖥️ Software Engineer | Full Stack Developer at PACK Solutions</p> 
+<p>🎓 Master's degree in Software Engineering graduate from Avignon University, France</p>
 <p>📍 Based in Avignon, France 🇫🇷</p>
 <p>📧 You can contact me at <strong><a href="mailto:sbaa.oussama07@gmail.com" style="color:blue">sbaa.oussama07@gmail.com</a></strong></p>
 
