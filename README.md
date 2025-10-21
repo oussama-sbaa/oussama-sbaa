@@ -5,7 +5,7 @@
 
 
 <p>🖥️ Software Engineer | Full Stack Developer at PACK Solutions</p> 
-<p>🎓 Master's degree in Software Engineering graduate from Avignon University, France</p>
+<p>🎓 Master's degree graduate in Software Engineering from Avignon University (CERI), France 🇫🇷</p>
 <p>📍 Based in Avignon, France 🇫🇷</p>
 <p>📧 You can contact me at <strong><a href="mailto:sbaa.oussama07@gmail.com" style="color:blue">sbaa.oussama07@gmail.com</a></strong></p>
 
